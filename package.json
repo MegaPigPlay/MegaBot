@@ -1,13 +1,13 @@
 {
   "name": "Test",
   "description": "Test",
-  "version": "0.0.0"
+  "version": "0.0.0",
   "main": "bot.py",
   "script": {
     "start": "node bot.py"
   },
   "dependencies": {
-     "discord.py": "11.1.0"
+     "discord.py": "11.1.0",
      "request": "2.01.0"
   }
 }
