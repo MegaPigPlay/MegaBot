@@ -32,5 +32,5 @@ __**Music Command**__
 +join""", color=0xe88af4)
         await client.send_message(message.channel, embed=embed)
 
-                                  
-client.run("NDU5NDkwMzkxMTQ2NjI3MDcz.Dg29_w.dxSVxwf0G-iJlCzckdcVlItfCu8")
+                                
+Client.run(process.env.BOT_TOKEN);
